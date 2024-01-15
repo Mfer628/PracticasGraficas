@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Num_Random/Num_Random.iml" filepath="$PROJECT_DIR$/Num_Random/Num_Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenar/Ordenar.iml" filepath="$PROJECT_DIR$/Ordenar/Ordenar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenarNumeros/OrdenarNumeros.iml" filepath="$PROJECT_DIR$/OrdenarNumeros/OrdenarNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticaPrimerParcialGraficas.iml" filepath="$PROJECT_DIR$/.idea/PracticaPrimerParcialGraficas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriemeraPractica/PriemeraPractica.iml" filepath="$PROJECT_DIR$/PriemeraPractica/PriemeraPractica.iml" />
+    </modules>
+  </component>
+</project>
